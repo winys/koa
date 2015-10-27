@@ -1,0 +1,28 @@
+{
+  "name": "koa-saber",
+  "version": "0.0.1",
+  "description": "Koa tools",
+  "main": "saber.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "koa",
+    "saber",
+    "utils",
+    "kit"
+  ],
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "dependencies": {
+    "co-fs": "1.2.0"
+  },
+  "contributors": [
+    {
+      "name": "Winys",
+      "email": "824350760@qq.com"
+    }
+  ]
+}
